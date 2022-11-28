@@ -1,0 +1,16 @@
+/*estilos utilizando elementos html*/
+body{
+    background-image: url("../img/pelicula.jpg");
+}
+
+h1 {
+    /*propiedades*/
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2{
+    color: whitesmoke;
+
+}
+/*selector de clase*/
